@@ -7,11 +7,11 @@
         <mxCell id="2HKU2eXt8fEGx6-fist7-2" value="预估地图目标信息" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-110" y="5.5" width="130" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="2HKU2eXt8fEGx6-fist7-3" value="目标预估轨迹偏移" style="whiteSpace=wrap;strokeWidth=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="2HKU2eXt8fEGx6-fist7-3" value="目标预估轨迹偏移" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="5.5" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2HKU2eXt8fEGx6-fist7-4" value="MPC控制" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="53" y="325" width="123" height="49" as="geometry" />
+          <mxGeometry x="40" y="67" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2HKU2eXt8fEGx6-fist7-5" value="是否结束" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="122" y="424" width="113" height="113" as="geometry" />
