@@ -14,10 +14,10 @@
           <mxGeometry x="-8" y="100" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2HKU2eXt8fEGx6-fist7-5" value="是否结束" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="122" y="424" width="113" height="113" as="geometry" />
+          <mxGeometry x="200" y="130" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="2HKU2eXt8fEGx6-fist7-6" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="151" y="610" width="56" height="34" as="geometry" />
+          <mxGeometry x="414" y="200" width="56" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2HKU2eXt8fEGx6-fist7-12" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="2HKU2eXt8fEGx6-fist7-5" target="2HKU2eXt8fEGx6-fist7-6">
           <mxGeometry relative="1" as="geometry">
