@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2HKU2eXt8fEGx6-fist7-2" value="预估地图目标信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="2HKU2eXt8fEGx6-fist7-2" value="预估地图目标信息" style="whiteSpace=wrap;strokeWidth=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-110" y="5.5" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2HKU2eXt8fEGx6-fist7-3" value="目标预估轨迹偏移" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
           <mxGeometry x="560" y="-200" width="240" height="583" as="geometry" />
         </mxCell>
         <mxCell id="2HKU2eXt8fEGx6-fist7-16" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" width="140" height="50" as="geometry" />
+          <mxGeometry x="-280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
