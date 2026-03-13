@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2HKU2eXt8fEGx6-fist7-2" value="预估地图目标信息" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="5.5" width="130" height="49" as="geometry" />
+          <mxGeometry x="-308" y="100" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2HKU2eXt8fEGx6-fist7-3" value="目标预估轨迹偏移" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="5.5" width="130" height="49" as="geometry" />
+          <mxGeometry x="-158" y="100" width="130" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="2HKU2eXt8fEGx6-fist7-4" value="MPC控制" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="67" width="130" height="49" as="geometry" />
+        <mxCell id="2HKU2eXt8fEGx6-fist7-4" value="MPC控制" style="whiteSpace=wrap;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-8" y="100" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2HKU2eXt8fEGx6-fist7-5" value="是否结束" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="122" y="424" width="113" height="113" as="geometry" />
@@ -28,7 +28,7 @@
           <mxGeometry x="560" y="-200" width="240" height="583" as="geometry" />
         </mxCell>
         <mxCell id="2HKU2eXt8fEGx6-fist7-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="5.5" width="130" height="49" as="geometry" />
+          <mxGeometry x="-458" y="100" width="130" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
