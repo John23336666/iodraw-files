@@ -25,6 +25,11 @@
         <mxCell id="2HKU2eXt8fEGx6-fist7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2HKU2eXt8fEGx6-fist7-5" target="2HKU2eXt8fEGx6-fist7-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2HKU2eXt8fEGx6-fist7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2HKU2eXt8fEGx6-fist7-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2HKU2eXt8fEGx6-fist7-5" value="是否结束" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="200" y="89.5" width="128" height="70" as="geometry" />
         </mxCell>
